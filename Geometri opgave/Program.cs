@@ -129,7 +129,7 @@ namespace Geometri
                 //Console.ReadLine(Læser Tekst fra Bruger);
                 svar = Console.ReadLine();
 
-            } while (svar == "J" || svar == "j" || svar == "ja" || svar == "Ja" || svar == "jA" || svar == "JA  ");
+            } while (svar == "J" || svar == "j" || svar == "ja" || svar == "Ja" || svar == "jA" || svar == "JA  "); 
         }
     }
 }
